@@ -1,3 +1,7 @@
+// include classes/id's when creating variables
+// make sure to use the form element, but use preventDefault(); 
+// with "event".on use submit instead of click ^^^^^^
+
 $(function(){
 
     let $giphyAddButton = $("button#addGiphy");
